@@ -22,9 +22,13 @@ header{
 
 }
 #banner{
-    background-image: url(/nature.jpg);
+    background-image: url(/image/nature.jpg);
     background-size: cover;
+    padding-top: 100px;
 }
 #content{
     position: relative;
+    padding-top: 450px;
+    height: 1500px;
+    text-align: center;
 }
